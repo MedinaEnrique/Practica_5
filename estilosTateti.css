@@ -8,6 +8,7 @@
   }
   
   .square {
+    background-color:#9f90ea;
     margin: auto;
     width: 98px;
     height: 99px;
@@ -30,10 +31,8 @@
     align-items: center;
     background-color: white;
   }
-  body{
-    background-color: rgb(80, 214, 255);
-  }
-  h1,h2{
+
+  h2,h3{
     text-align: center;
     font-family:fantasy;
     border-radius: 2px;
@@ -51,5 +50,12 @@
   p{
     border: 3px;
     text-align: center;
+  }
+
+  .text .reset-button{
+    color: #9f90ea;
+  }
+  html{
+    background-color: #5f55a8;
   }
   
